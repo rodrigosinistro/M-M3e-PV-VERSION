@@ -1,13 +1,11 @@
 # Foundry system for Mutants & Masterminds 3E
 This is an unofficial Mutants & Masterminds 3E sheet.
 
-If you want to help, contact me on Discord Foundry : Zakarik
+Essa é uma versão em que estou tentando colocar uma regra de Pontos de Vida no sistema para funcionar no Foundry.
 
-Il s'agit d'une fiche non-officielle pour Mutants & Masterminds 3E.
+Não tem nenhuma ligação com a Green Ronin ou qualquer outra entidade e pessoa envolvida no RPG de Mutantes e Malfeitores.
 
-Si vous voulez aider, contactez moi sur le Discord-FR de Foundry : https://discord.gg/pPSDNJk
-
-Pseudo : Zakarik
+Isso é para uso pessoal e não será vendido nem comercializado.
 
 # Credits
 ## Translations
