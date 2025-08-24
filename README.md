@@ -1,25 +1,25 @@
-# Foundry system for Mutants & Masterminds 3E
-This is an unofficial Mutants & Masterminds 3E sheet.
+# Sistema de fundição para Mutants & Masterminds 3E
+Esta é uma planilha não oficial de Mutants & Masterminds 3E.
 
 Essa é uma versão em que estou tentando colocar uma regra de Pontos de Vida no sistema para funcionar no Foundry.
 
-Não tem nenhuma ligação com a Green Ronin ou qualquer outra entidade e pessoa envolvida no RPG de Mutantes e Malfeitores.
+Não tem nenhuma ligação com o Green Ronin ou qualquer outra entidade e pessoa envolvida no RPG de Mutantes e Malfeitores.
 
 Isso é para uso pessoal e não será vendido nem comercializado.
 
-# Credits
-## Translations
-- English : reBanuHaqim
-- Portuguese : reBanuHaqim
-- Spanish : reBanuHaqim
-- Italian : reBanuHaqim, HellSong46
+# Créditos
+## Traduções
+- Inglês: reBanuHaqim
+- Português: reBanuHaqim
+- Espanhol: reBanuHaqim
+- Italiano: reBanuHaqim, HellSong46
 
-## Images
-- Devioushearts and reBanuHaqim
+## Imagens
+- Devioushearts e reBanuHaqim
 
-# Mentions Légales
-Mutants & Masterminds 3 est un jeu de Green Ronin, traduit par Black Book Studios.
+# Menciona Legais
+Mutants & Masterminds 3 é um jogo de Green Ronin, traduzido pela Black Book Studios e pela Jambô no Brasil
 
-Toute la propriété intellectuelle leur appartient, ce système est une adpatation destinée à fonctionner sous FoundryVTT.
+Apesar da propriedade intelectual de seu dispositivo, este sistema é uma adaptação destinada a funcionar sob FoundryVTT.
 
-L'ensemble du code est sous licence Creative Commons.
+O conjunto de código é licenciado pela Creative Commons.
