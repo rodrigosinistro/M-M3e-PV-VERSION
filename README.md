@@ -1,4 +1,4 @@
-# Sistema de fundição para Mutants & Masterminds 3E
+# Sistema do Foundry VTT 13 para Mutants & Masterminds 3E
 Esta é uma planilha não oficial de Mutants & Masterminds 3E.
 
 Essa é uma versão em que estou tentando colocar uma regra de Pontos de Vida no sistema para funcionar no Foundry.
